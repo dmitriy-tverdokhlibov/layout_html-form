@@ -1,1 +1,26 @@
-/* styles go here */
+.fieldset {
+  margin-left: 2px;
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.label-2 {
+  display: block;
+}
+
+.age {
+  width: 65px;
+}
+
+.time {
+  width: 128px;
+}
+
+.submit {
+  margin-top: 1px;
+  margin-left: 10px;
+}
